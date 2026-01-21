@@ -1,41 +1,79 @@
-# Monjyoti Das — PhD, AI & Software Architect | Creator of Infigenie™ AIOS Engine™
-Building intelligent multi-agent systems that power next-gen AIOS Engine™ architectures.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=ARCHITECTING+DIGITAL+CONSCIOUSNESS;CREATOR+OF+INFIGENIE%E2%84%A2+AIOS+ENGINE;TRANSFORMING+CODE+INTO+COGNITION" alt="Typing SVG" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Monjyoti%20Das-blue?logo=linkedin)](https://www.linkedin.com/in/monjyoti-das-b67a102a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?logo=google-chrome)](https://infigenie.ai)
+<div align="center">
+  <h3><i>"The goal isn't just to build software. It's to build the entity that builds software."</i></h3>
+</div>
 
-## Expertise
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=infigenie&theme=radical&no-frame=true&margin-w=15&row=1" alt="trophy" />
+  </a>
+</p>
 
-### Primary
-- Infigenie™ AIOS Engine™ Architecture
-- Multi-Agent Systems
-- Large Language Model Integration
-- AI & ML Systems Research
+---
 
-### Secondary
-- Cloud Computing (AWS, GCP)
-- Docker & Kubernetes
-- Python, Node.js, TypeScript
-- Monorepo Architecture & CI/CD
+<div align="center">
 
-### Emerging
-- Self-Supervised Learning
-- Distributed AI Orchestration
-- Autonomous Multi-Agent Coordination
+### ⚡ The Arsenal (Tech Stack)
 
-## Achievements
-- 10+ years experience in AI & Software Architecture
-- Creator of Infigenie™ AIOS Engine™
-- PhD-level research in multi-agent AI systems
-- Published technical whitepapers & conference talks
-- Patents & AIOS Engine™ milestones achieved
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,ts,python,cpp,docker,kubernetes,aws,gcp,pytorch,tensorflow,tauri,svelte,react,nextjs,postgres,redis,kafka,linux,git,vim&perline=10" />
+  </a>
+</p>
 
-## Featured Projects
-- **[infigenie-ai-monorepo](https://github.com/infigenie/infigenie-ai-monorepo)** — Core AIOS Engine™ monorepo: multi-agent orchestration and AI integration.
-- **[ai-tools](#)** — Research libraries and AI utilities.
-- **[aios-experiments](#)** — Proof-of-concept experiments for AIOS Engine™.
-- **[collab-projects](#)** — Open-source collaboration & advanced AI tools.
+</div>
 
-## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infigenie&layout=compact)](https://github.com/infigenie)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=infigenie&show_icons=true&theme=dark)](https://github.com/infigenie)
+---
+
+<div align="center">
+
+### 📊 Intelligence Report
+
+| **Metric** | **Visualization** |
+| :---: | :---: |
+| **Core Stats** | <img src="https://github-readme-stats.vercel.app/api?username=infigenie&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" /> |
+| **Language DNA** | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infigenie&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" /> |
+| **Consistency** | <img src="https://github-readme-streak-stats.herokuapp.com/?user=infigenie&theme=radical&hide_border=true" height="180" /> |
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧬 Contribution Timeline (The Snake)
+
+<img src="https://github.com/infigenie/infigenie/blob/output/github-contribution-grid-snake.svg" alt="snake contribution graph" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔭 Featured Implementations
+
+| **Project** | **Description** | **Tech** |
+| :--- | :--- | :--- |
+| **[Infigenie™ AIOS](https://github.com/infigenie/infigenie-ai-monorepo)** | The omni-modal operating system for brand intelligence. | `Rust` `Tauri` `AI` |
+| **[Neurosync AI](https://github.com/infigenie)** | Next-gen audio intelligence and neural bridging. | `Python` `PyTorch` |
+| **[Chaos Protocol](https://github.com/infigenie)** | Distributed multi-agent orchestration engine. | `Go` `gRPC` |
+
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://infigenie.ai">
+    <img src="https://img.shields.io/badge/INFIGENIE-AIOS_ENGINE-000000?style=for-the-badge&logo=robot-framework&logoColor=39FF14" />
+  </a>
+  <a href="https://linkedin.com/in/monjyoti-das-b67a102a/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:contact@infigenie.ai">
+    <img src="https://img.shields.io/badge/EMAIL-INITIATE_UPLINK-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
