@@ -20,8 +20,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,ts,python,cpp,docker,kubernetes,aws,gcp,pytorch,tensorflow,tauri,svelte,react,nextjs,postgres,redis,kafka,linux,git,vim&perline=10" />
+    <img src="https://skillicons.dev/icons?i=rust,wasm,tauri,react,ts,bun,cloudflare,python,pytorch,tensorflow,docker,kubernetes,gcp,aws,linux,git,vim,postgres,redis,kafka&perline=10" />
   </a>
+  <br/>
+  <!-- Manually adding missing icons via Shields.io for elite specificity -->
+  <img src="https://img.shields.io/badge/Leptos-Rust_Framework-orange?style=for-the-badge&logo=rust" />
+  <img src="https://img.shields.io/badge/SurrealDB-Multi_Model_DB-ff00a0?style=for-the-badge&logo=surrealdb" />
+  <img src="https://img.shields.io/badge/Candle-Rust_ML-yellow?style=for-the-badge&logo=huggingface" />
+  <img src="https://img.shields.io/badge/ONNX-Runtime-005CED?style=for-the-badge&logo=onnx" />
 </p>
 
 </div>
@@ -58,9 +64,9 @@
 
 | **Project** | **Description** | **Tech** |
 | :--- | :--- | :--- |
-| **[Infigenie™ AIOS](https://github.com/infigenie/infigenie-ai-monorepo)** | The omni-modal operating system for brand intelligence. | `Rust` `Tauri` `AI` |
-| **[Neurosync AI](https://github.com/infigenie)** | Next-gen audio intelligence and neural bridging. | `Python` `PyTorch` |
-| **[Chaos Protocol](https://github.com/infigenie)** | Distributed multi-agent orchestration engine. | `Go` `gRPC` |
+| **[Infigenie™ AIOS](https://github.com/infigenie/infigenie-ai-monorepo)** | The omni-modal operating system for brand intelligence. | `Rust` `Tauri v2` `Leptos` `Candle` |
+| **[Neurosync AI](https://github.com/infigenie)** | Next-gen audio intelligence and neural bridging. | `Python` `PyTorch` `Rust Bridge` |
+| **[Chaos Protocol](https://github.com/infigenie)** | Distributed multi-agent orchestration engine. | `Go` `gRPC` `Kubernetes` |
 
 </div>
 
